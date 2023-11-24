@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/75857433/how-to-increase-the-accuracy-of-random-forest-classifier
+https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/
+https://machinelearningmastery.com/feature-selection-machine-learning-python/
+https://scikit-learn.org/stable/modules/feature_selection.html
+https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
+https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/#:~:text=When%20tuning%20a%20random%20forest,%2C%20Gini%20impurity%20or%20entropy).
+https://xavierbourretsicotte.github.io/SVM_implementation.html
+https://static1.squarespace.com/static/58851af9ebbd1a30e98fb283/t/58902fbae4fcb5398aeb7505/1485844411772/SVM+Explained.pdf
+
+
+test flowers with other flower datasets
